@@ -17,8 +17,12 @@ Results:
 - Gradient Boosting Classifier had the highest accuracy score
 - Alogrithm optimization inccreased accuracy score from 0.7864 to 0.8125 (3%).
 
+Languages and Tools: Python, Numpy, Pandas, Matplotlib, Seaborn, and Scikit-Learn
+
 ![alcohol](images/Alcohol.png)
 
 ![sulphates](images/Sulphates.png)
 
 ![featureimportance](images/FeatureImportance.png)
+
+
