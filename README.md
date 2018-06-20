@@ -1,4 +1,4 @@
-# MachineLearning - In "Vinho Verde" Veritas
+# Machine Learning - In "Vinho Verde" Veritas
 
 Until now, wine connoisseurs have had to rely almost exclusively on sensory characteristics to evaluate the quality of wines. Our group used Machine Learning to make similar predictions based on the wines’ physio-chemical properties.
 
@@ -19,6 +19,6 @@ Results:
 
 ![alcohol](images/Alcohol.png)
 
-![sulphates}(images/Sulphates.png)
+![sulphates](images/Sulphates.png)
 
 ![featureimportance](images/FeatureImportance.png)
